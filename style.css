@@ -2,10 +2,8 @@ h1 {
     text-align: center;
 }
 
-p {
-   
+.boxModel {
+    float: right;
 }
 
-#links {
-    text-align: center;
-}
+
